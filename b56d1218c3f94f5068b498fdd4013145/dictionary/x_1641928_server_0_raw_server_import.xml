@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="bfed9258c3f94f5068b498fdd40131a5" extends="sys_import_set_row" label="Raw Server Import" max_length="40" name="x_1641928_server_0_raw_server_import" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model" label="Model" max_length="40" name="u_model" type="string"/>
+        <element attributes="import_attribute_name=RAM" label="RAM" max_length="40" name="u_ram" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Serial Number" label="Serial Number" max_length="40" name="u_serial_number" type="string"/>
+    </element>
+</database>
